@@ -8,6 +8,10 @@ The app focuses on **mindful technology use, emotional awareness, and positive h
 This project was developed as part of the **Critical and Creative Thinking – Summative Assessment** under the **Artificial Intelligence course**.
 
 ---
+## ** Research links**
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11385738/
+https://allenhousejhansi.com/blog/digital-detox-for-students
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11422191/
 
 ## 📌 **Project Purpose**
 
